@@ -51,6 +51,11 @@ sidebar:
         - item: Cooking
           link:
 
+greeting:
+    title: Introduction
+    summary: |
+    test test 123 Hello World
+
 career-profile:
     title: Career Profile
     summary: |
@@ -67,9 +72,9 @@ education:
         university: University of South Florida (USF), Tampa
         time: 2019 - 2023
         details: |
-          At USF I studied physics, computational methods of physics, and physical modelling. 
+          At USF I studied physics, the many computational methods of physics, and the general process of physical modelling. 
           Additionally I studied the various methods of machine learning.
-          lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
