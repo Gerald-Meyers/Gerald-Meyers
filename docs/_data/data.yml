@@ -36,19 +36,16 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: Intermediate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Programming
           link:
 
-        - item: Snowboarding
+        - item: Camping
           link:
 
         - item: Cooking
@@ -66,15 +63,11 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BS in Physics, Minor in Mathematics
+        university: University of South Florida (USF), Tampa
+        time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          At USF I studied physics, computational methods of physics, and physical modelling. Additionally I studied the various methods of machine learning.
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
