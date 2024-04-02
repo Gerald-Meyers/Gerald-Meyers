@@ -54,7 +54,7 @@ sidebar:
 introduction:
     title: Introduction
     summary: |
-    test test 123 Hello World
+      test test 123 Hello World
 
 career-profile:
     title: Career Profile
@@ -65,6 +65,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
